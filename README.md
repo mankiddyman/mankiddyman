@@ -4,6 +4,11 @@
 
 Comparative genomics of holocentric plants (*Drosera* spp.) — de novo genome assembly, transcriptomics, annotation, and comparative analysis. Building reproducible, metadata-driven pipelines in Snakemake.
 
+### [reproducible_phd](https://github.com/mankiddyman/reproducible_phd)
+<img src="https://raw.githubusercontent.com/mankiddyman/reproducible_phd/main/.github/assets/rulegraph.svg" width="500">
+
+### [CO_smk](https://github.com/mankiddyman/CO_smk)
+<img src="https://raw.githubusercontent.com/mankiddyman/CO_smk/main/.github/assets/rulegraph.svg" width="500">
 ---
 
 ## 📊 Data Visualisation Projects
