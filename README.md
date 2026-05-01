@@ -27,7 +27,12 @@ Comparative genomics of holocentric plants (*Drosera* spp.) — de novo genome a
 - **Comparative genomics** — *Drosera* (carnivorous plants), Snakemake pipelines, HiFi assembly
 - **Transcriptomics & annotation** — Helixer, OrthoFinder, gene space analysis
 - **Tools:** Python · R · Snakemake · bash · HPC (SLURM)
+ ### Why r is a biased ruler — Kosambi mapping function from first principles
+*One-page R Markdown notebook · Genetics history + math + simulation*
 
+[![mapping functions figure](https://raw.githubusercontent.com/mankiddyman/kosambi_demo/main/kosambi_demo_files/figure-gfm/partA-1.png)](https://github.com/mankiddyman/kosambi_demo/blob/main/kosambi_demo.md)
+
+> Walks from Mendel and Sturtevant through Haldane's Poisson derivation to Kosambi's 1944 interference correction, with a four-panel figure showing how the bias arises and how mapping functions correct it. Ends with a brief tour of the modern gamma-renewal framework.
 ---
 
 ## 📬 Contact
